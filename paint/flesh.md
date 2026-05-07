@@ -25,6 +25,10 @@
 
 * GS-05 サーフェイサーエヴォ フレッシュ 
 
+[NAZCA(ナスカ)シリーズ](https://www.gaianotes.com/products/modelers_produce_series_vol1.html)
+
+* NP004 ピンクサフ
+
 ### モデルカステン
 
 * [桃肌フレッシュ](https://store.modelkasten.com/shopdetail/000000003891/)
